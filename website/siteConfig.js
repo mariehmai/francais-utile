@@ -9,23 +9,23 @@
 const users = [
   {
     caption: 'User1',
-    image: '/test-site/img/docusaurus.svg',
+    image: '/img/docusaurus.svg',
     infoLink: 'https://www.facebook.com',
     pinned: true,
   },
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'CrazyFrenchy' /* title for your website */,
+  tagline: 'Un site pour perfectionner son français ;)',
   url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  baseUrl: '/' /* base url for your project */,
+  projectName: '',
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    { doc: 'dictionary', label: 'Dictionary' },
+    { doc: 'expressions', label: 'Expressions' },
+    { page: 'help', label: 'Help' },
+    { blog: true, label: 'Tips' },
   ],
   users,
   /* path to images for header/footer */
@@ -38,10 +38,8 @@ const siteConfig = {
     secondaryColor: '#205C3B',
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
-  copyright:
-    'Copyright © ' +
-    new Date().getFullYear() +
-    ' Your Name or Your Company Name',
+  copyright: new Date().getFullYear() +
+  ' - CrazyFrenchy',
   // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
   // projectName: 'test-site', // or set an env variable PROJECT_NAME
   highlight: {
@@ -50,7 +48,7 @@ const siteConfig = {
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://gitlab.com/mhmaii/docs-french',
 };
 
 module.exports = siteConfig;
