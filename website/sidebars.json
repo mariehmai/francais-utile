@@ -1,5 +1,8 @@
 {
-  "docs": {
+  "expressions": {
     "Expressions": ["expressions", "salutations", "restaurant"]
+  },
+  "rules": {
+    "Règles": ["rules", "grammar", "conjugation"]
   }
 }
