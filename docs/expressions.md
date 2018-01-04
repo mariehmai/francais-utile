@@ -1,6 +1,6 @@
 ---
 id: expressions
-title: Other Document
+title: Introduction
 ---
 
-this is another document
+Voir des expressions courantes dans différentes [situations.](/docs/salutations.html)

@@ -5,16 +5,11 @@
     "previous": "Previous",
     "tagline": "Un site pour perfectionner son français ;)",
     "dictionary": "Dictionnaire",
-    "doc3": "This is document number 3",
-    "doc5": "Fifth Document",
-    "expressions": "Other Document",
+    "expressions": "Introduction",
+    "restaurant": "Restaurant",
+    "salutations": "Salutations",
     "Dictionnaire": "Dictionnaire",
-    "Expressions": "Expressions",
-    "Aide": "Aide",
-    "Tips": "Tips",
-    "Docusaurus": "Docusaurus",
-    "First Category": "First Category",
-    "Second Category": "Second Category"
+    "Expressions": "Expressions"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

@@ -1,10 +1,5 @@
 {
   "docs": {
-    "Docusaurus": ["dictionary"],
-    "First Category": ["dictionary, expressions"],
-    "Second Category": ["dictionary"]
-  },
-  "docs-other": {
-    "First Category": ["expressions", "doc5"]
+    "Expressions": ["expressions", "salutations", "restaurant"]
   }
 }

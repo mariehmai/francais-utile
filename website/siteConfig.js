@@ -23,9 +23,9 @@ const siteConfig = {
   projectName: "",
   headerLinks: [
     { doc: "dictionary", label: "Dictionnaire" },
-    { doc: "expressions", label: "Expressions" },
-    { page: "help", label: "Aide" },
-    { blog: true, label: "Tips" }
+    { doc: "expressions", label: "Expressions" }
+    // { page: "help", label: "Aide" }
+    // { blog: true, label: "Tips" }
   ],
   users,
   /* path to images for header/footer */
@@ -34,8 +34,8 @@ const siteConfig = {
   favicon: "img/favicon.png",
   /* colors for website */
   colors: {
-    primaryColor: "#cd1b87",
-    secondaryColor: "#cd1b87"
+    primaryColor: "#509dbc",
+    secondaryColor: "#457e94"
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright: new Date().getFullYear() + " - CrazyFrenchy",

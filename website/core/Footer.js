@@ -34,22 +34,20 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Docs</h5>
-            <a href={this.docUrl("doc1.html", this.props.language)}>
-              Getting Started (or other categories)
-            </a>
-            <a href={this.docUrl("tips.html", this.props.language)}>
-              Guides (or other categories)
-            </a>
-            <a href={this.docUrl("doc3.html", this.props.language)}>
-              API Reference (or other categories)
+            <h5>Contact</h5>
+            <a
+              href={
+                "https://fr.linkedin.com/in/marie-h%C3%A9l%C3%A8ne-mai-41804669"
+              }
+            >
+              Sobrinita
             </a>
           </div>
 
-          <div>
+          {/* <div>
             <h5>Plus</h5>
             <a href={this.props.config.baseUrl + "blog"}>Blog</a>
-          </div>
+          </div> */}
         </section>
 
         <section className="copyright">{currentYear} - CrazyFrenchy</section>

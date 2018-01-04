@@ -1,0 +1,4 @@
+---
+id: restaurant
+title: Restaurant
+---
