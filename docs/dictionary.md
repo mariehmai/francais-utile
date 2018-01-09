@@ -67,6 +67,10 @@ title: Dictionnaire
 
 ---
 
+* presque = casi
+
+_J'ai dormi **presque** toute = Casi acabo _
+
 ## Q
 
 ---
@@ -78,6 +82,12 @@ title: Dictionnaire
 ## S
 
 ---
+
+* se remettre de... = superar
+
+_e.g. Je ne vais pas **m'en remettre**. = No lo voy a superar._
+
+* se reposer = descansar
 
 ## T
 

@@ -3,6 +3,6 @@
     "Expressions": ["expressions", "salutations", "restaurant"]
   },
   "rules": {
-    "Règles": ["rules", "grammar", "conjugation"]
+    "Règles": ["rules", "conjugation", "grammar"]
   }
 }
