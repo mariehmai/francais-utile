@@ -5,13 +5,20 @@ title: Dictionnaire
 
 ## A
 
----
+`aéroport` _= aeropuerto_
 
 ## B
 
 ---
 
 ## C
+
+`cash` _= efectivo / sencillo_
+
+```
+> Je vais payer en cash.
+// Voy a pagar en efectivo.
+```
 
 ---
 
@@ -28,6 +35,8 @@ title: Dictionnaire
 ---
 
 ## G
+
+`gare` _= estación de tren_
 
 ---
 
@@ -67,9 +76,12 @@ title: Dictionnaire
 
 ---
 
-* presque = casi
+`presque` _= casi_
 
-_J'ai dormi **presque** toute = Casi acabo _
+```
+> J'ai dormi presque toute la journée.
+// Duermo casi todo el día.
+```
 
 ## Q
 
@@ -83,11 +95,14 @@ _J'ai dormi **presque** toute = Casi acabo _
 
 ---
 
-* se remettre de... = superar
+`se remettre de...` _= superar_
 
-_e.g. Je ne vais pas **m'en remettre**. = No lo voy a superar._
+```
+> Je ne vais pas m'en remettre.
+// No lo voy a superar.
+```
 
-* se reposer = descansar
+`se reposer` _= descansar_
 
 ## T
 

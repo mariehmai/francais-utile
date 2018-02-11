@@ -22,9 +22,9 @@ const siteConfig = {
   baseUrl: "/" /* base url for your project */,
   projectName: "",
   headerLinks: [
-    { doc: "rules", label: "Règles" },
     { doc: "expressions", label: "Expressions" },
-    { doc: "dictionary", label: "Dictionnaire" }
+    { doc: "dictionary", label: "Dictionnaire" },
+    { doc: "rules", label: "Règles" }
     // { page: "help", label: "Aide" }
     // { blog: true, label: "Tips" }
   ],

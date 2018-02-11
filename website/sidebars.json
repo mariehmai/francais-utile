@@ -1,6 +1,6 @@
 {
   "expressions": {
-    "Expressions": ["expressions", "salutations", "restaurant"]
+    "Expressions": ["expressions", "situations", "salutations", "restaurant"]
   },
   "rules": {
     "Règles": ["rules", "conjugation", "grammar"]

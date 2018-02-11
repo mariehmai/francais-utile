@@ -5,21 +5,18 @@ title: Conjugaison
 
 ### Dormir
 
-_Pas bien : ![alt text](/img/err-dormir.png "Tía error")_
+<img src="/img/err-dormir.png" align="right" alt="erreur-dormir" style="width:320;"/>
 
-| Indicatif        |
-| ---------------- |
-| _Présent_        |
-| je dor**s**      |
-| tu dor**s**      |
-| il dor**t**      |
-| nous dor**mons** |
-| vous dor**mez**  |
-| ils dor**ment**  |
+_Incorrect:_ ~~Dorm~~ ma petite
 
-| Impératif   |
-| ----------- |
-| _Présent_   |
-| dor**s**    |
-| dor**mons** |
-| dor**mez**  |
+_Correct:_ **Dors** ma petite
+
+| Indicatif        | Impératif   |
+| ---------------- | ----------- |
+| _Présent_        | _Présent_   |
+| je dor**s**      |             |
+| tu dor**s**      | dor**s**    |
+| il dor**t**      |             |
+| nous dor**mons** | dor**mons** |
+| vous dor**mez**  | dor**mez**  |
+| ils dor**ment**  |             |

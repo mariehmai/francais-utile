@@ -81,6 +81,9 @@ class HomeSplash extends React.Component {
           <ProjectTitle />
           <PromoSection>
             <Button href={docUrl("rules.html", language)}>Commencer</Button>
+            <Button href={docUrl("expressions.html", language)}>
+              Apprendre des expressions cools ;)
+            </Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -108,7 +111,8 @@ const Features = props => (
         title: "Français"
       },
       {
-        content: "Personne qui galère avec les langues étrangères",
+        content:
+          "Personne qui a des difficultés avec les langues étrangères ;)",
         image: imgUrl("co.png"),
         imageAlign: "top",
         title: "Colombien"

@@ -40,7 +40,7 @@ class Footer extends React.Component {
                 "https://fr.linkedin.com/in/marie-h%C3%A9l%C3%A8ne-mai-41804669"
               }
             >
-              Sobrinita
+              mhmai
             </a>
           </div>
 

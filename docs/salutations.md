@@ -3,6 +3,12 @@ id: salutations
 title: Salutations
 ---
 
-\* Français correct
+`Bonjour` _= Buenos días_
 
-\*\* Informel
+`Salut` _= Hola_
+
+```
+Bonjour, comment tu vas ? // Hola, cómo estás?
+Bonjour, tu vas bien ? // Hola, cómo estás/estás bien?
+Bonjour, comment ça va ? // Hola, cómo van las cosas?
+```

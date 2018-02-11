@@ -1,18 +1,23 @@
 ---
 id: expressions
-title: Introduction
+title: Top expressions
 ---
 
-\* Formel
-\*\* Informel
-\*\*\* Super informel
+###### _\* Formel_
 
-## Top expressions
+###### _\*\* Informel_
 
-### Avoir la flemme = Tener pereza
-
-_J'ai la flemme = Tengo pereza_
+###### _\*\*\* Super informel_
 
 ---
 
-Voir des expressions courantes dans différentes [situations.](/docs/salutations.html)
+`Avoir la flemme`\*\*\* _= Tener pereza_
+
+```
+> J'ai la flemme
+// Tengo mucha pereza
+```
+
+---
+
+Voir des expressions courantes dans différentes [situations.](/docs/situations.html)
