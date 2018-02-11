@@ -3,18 +3,14 @@ id: expressions
 title: Top expressions
 ---
 
-###### _\* Formel_
-
-###### _\*\* Informel_
-
-###### _\*\*\* Super informel_
+\*Formel \*\*Informel \*\*\*Super informel
 
 ---
 
 `Avoir la flemme`\*\*\* _= Tener pereza_
 
 ```
-> J'ai la flemme
+1. J'ai la flemme
 // Tengo mucha pereza
 ```
 

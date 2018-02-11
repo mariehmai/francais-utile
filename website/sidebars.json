@@ -1,8 +1,11 @@
 {
   "expressions": {
-    "Expressions": ["expressions", "situations", "salutations", "restaurant"]
+    "Expressions": ["expressions", "situations", "salutations"]
   },
   "rules": {
     "Règles": ["rules", "conjugation", "grammar"]
+  },
+  "vocabulary": {
+    "Vocabulaire": ["vocabulary", "dictionary"]
   }
 }
