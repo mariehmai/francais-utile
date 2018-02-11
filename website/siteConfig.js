@@ -17,7 +17,7 @@ const users = [
 
 const siteConfig = {
   title: "CrazyFrenchy" /* title for your website */,
-  tagline: "Un site pour perfectionner son français ;)",
+  tagline: "Un site pour perfectionner son français",
   url: "https://facebook.github.io" /* your website url */,
   baseUrl: "/" /* base url for your project */,
   projectName: "",
