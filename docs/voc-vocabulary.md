@@ -1,6 +1,6 @@
 ---
 id: vocabulary
-title: Vocabulaire utiles
+title: Vocabulaire utile
 ---
 
 [#Le **calendrier**](#le-calendrier)
