@@ -9,6 +9,8 @@ title: Situations courantes
 
 [#Demander l'addition](#demander-l-addition) _= pedir la cuenta_
 
+[#Être perdu](#etre-perdu) _= estar perdido_
+
 [#Se présenter](#se-presenter) _= presentarse_
 
 [#**S'inscrire à un cours** de français](#s-inscrire-a-un-cours-de-francais) _= registrarse en una clase de francés_
@@ -51,6 +53,17 @@ Bonjour, j'aimerais/je voudrais avoir une pizza barbecue, taille moyenne, avec s
 # Por favor, me podría dar la cuenta?
 2. Excusez-moi... l'addition s'il vous plaît ?
 # La cuenta por favor?
+```
+
+## \#Être perdu
+
+```yml
+Excusez-moi, pouvez-vous m'aider ? Je suis perdu(e).
+# Por favor, me puede ayudar? Estoy perdid@...
+1. J'aimerais aller à la Grand-Place / à l'Avenue Eugène Demolder.
+# Me gustaría ir a la Grand-Place / a Avenue Eugène Demolder.
+2. Je cherche le marché blablabla...
+# Estoy buscando el mercado blablabla...
 ```
 
 ## \#Se présenter
