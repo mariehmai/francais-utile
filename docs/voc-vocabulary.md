@@ -5,6 +5,12 @@ title: Vocabulaire utile
 
 [#Le **calendrier**](#le-calendrier)
 
+[#Les **couleurs**](#les-couleurs)
+
+[#La **famille**](#la-famille)
+
+[#Les **fruits** et **légumes**](#les-fruits-et-légumes)
+
 [#À **l'hôtel**](#a-l-hotel)
 
 [#La **maison**](#la-maison)
@@ -19,7 +25,9 @@ title: Vocabulaire utile
 
 ## \#Le **calendrier**
 
-### Les **moments**
+### 1. Les **moments**
+
+#### 1.1 Les moments (principaux)
 
 * `avant-hier` _= anteayer_
 * `hier` _= ayer_
@@ -29,7 +37,17 @@ title: Vocabulaire utile
 * le `lendemain` _= el día siguiente_
 * `après-demain` _= pasado mañana_
 
-### Les **jours de la semaine**
+#### 1.2 Les moments de la journée
+
+* l'`aube` _= la madrugada_
+* le `matin` _= la mañana_
+* le `midi` _= el mediodía_
+* l'`après-midi` _= la tarde_
+* le `soir` (19h-23h59) _= la noche_
+* la `nuit` (00h-04h59) _= la noche_
+* `minuit` _= medianoche_
+
+### 2. Les **jours de la semaine**
 
 * `lundi` _= lunes_
 * `mardi` _= martes_
@@ -39,7 +57,7 @@ title: Vocabulaire utile
 * `samedi` _= sábado_
 * `dimanche` _= domingo_
 
-### Les **mois de l'année**
+### 3. Les **mois de l'année**
 
 * `janvier` _= enero_
 * `février` _= febrero_
@@ -53,6 +71,24 @@ title: Vocabulaire utile
 * `octobre` _= octubre_
 * `novembre` _= noviembre_
 * `décembre` _= diciembre_
+
+## \#Les **couleurs**
+
+* `beige` _= beige_
+* `blanc(he)` _= blanc@_
+* `bleu(e)` _= azul_
+* `gris(e)` _= gris_
+* `jaune` _= amarill@_
+* `noir(e)` _= negr@_
+* `orange` _= naranja_
+* `rose` _= rosad@_
+* `rouge` _= roj@_
+* `vert(e)` _= verde_
+* `violet(te)` _= morado_
+
+## \#La **famille**
+
+## \#Les **fruits** et **légumes**
 
 ## \#À **l'hôtel**
 
@@ -68,7 +104,7 @@ title: Vocabulaire utile
 
 ## \#La **maison**
 
-### Les **pièces** de la **maison**
+### 1. Les **pièces** de la **maison**
 
 * la `chambre` _= la habitación_
 * le `couloir` _= el pasillo_
@@ -77,21 +113,21 @@ title: Vocabulaire utile
 * les `toilettes` _= el baño_
 * le `salon` _= la sala_
 
-### Les **repas**
+### 2. Les **repas**
 
-##### En France
+#### 2.1 En France
 
 * le `petit-déjeuner` _= el desayuno_
 * le `déjeuner` _= el almuerzo_
 * le `dîner` _= la cena_
 
-##### En Belgique
+#### 2.2 En Belgique
 
 * le `petit-déjeuner` _= el desayuno_
 * le `dîner` _= el almuerzo_
 * le `souper` _= la cena_
 
-### Le vocabulaire de **chez soi**
+### 3. Le vocabulaire de **chez soi**
 
 * `se coucher` _= acostarse_
 * `dormir` _= dormir_
@@ -117,7 +153,7 @@ title: Vocabulaire utile
 
 ## \#Au **restaurant**
 
-### Les cuissons
+### 1. Les cuissons
 
 * `bleu` _=_
 * `saignant` _=_
