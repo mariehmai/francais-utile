@@ -6,6 +6,7 @@
  */
 
 const React = require("react")
+const siteConfig = require("./../siteConfig.js")
 
 class Footer extends React.Component {
   docUrl(doc, language) {
@@ -50,7 +51,9 @@ class Footer extends React.Component {
           </div> */}
         </section>
 
-        <section className="copyright">{currentYear} - CrazyFrenchy</section>
+        <section className="copyright">
+          {currentYear} - {siteConfig.title}
+        </section>
       </footer>
     )
   }

@@ -16,7 +16,7 @@ const users = [
 ]
 
 const siteConfig = {
-  title: "CrazyFrenchy" /* title for your website */,
+  title: "Français Utile" /* title for your website */,
   tagline: "Un site pour perfectionner son français",
   url: "https://facebook.github.io" /* your website url */,
   baseUrl: "/" /* base url for your project */,
@@ -41,7 +41,7 @@ const siteConfig = {
     secondaryColor: "#457e94"
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
-  copyright: new Date().getFullYear() + " - CrazyFrenchy",
+  copyright: new Date().getFullYear() + " - " + this.title,
   // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
   // projectName: 'test-site', // or set an env variable PROJECT_NAME
   highlight: {

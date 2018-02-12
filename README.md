@@ -1,4 +1,4 @@
-# CrazyFrenchy
+# Français Utile
 
 The app for you to learn basic french...
 
