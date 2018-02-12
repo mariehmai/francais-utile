@@ -5,6 +5,8 @@ title: Vocabulaire utile
 
 [#Le **calendrier**](#le-calendrier)
 
+[#À **l'hôtel**](#a-l-hotel)
+
 [#La **maison**](#la-maison)
 
 [#Les **pays**](#les-pays)
@@ -41,6 +43,18 @@ title: Vocabulaire utile
 * `octobre` _= octubre_
 * `novembre` _= noviembre_
 * `décembre` _= diciembre_
+
+## \#À **l'hôtel**
+
+* `chambre double` _= habitación doble_
+* `chambre simple` _= habitación individual_
+* `coussin` _= cojín / almohada_
+* `couverture` _= manta / cobija_
+* `draps` _= sábanas_
+* `lit` _= cama_
+* `literie` _= ropa de cama_
+* `savon` _= jabón_
+* `serviette de bain` _= toalla_
 
 ## \#La **maison**
 

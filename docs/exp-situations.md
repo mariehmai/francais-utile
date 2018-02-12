@@ -3,6 +3,8 @@ id: situations
 title: Situations courantes
 ---
 
+[#À l'**hôtel**](#a-l-hotel) _= en el hotel_
+
 [#Appeler un **taxi**](#appeler-un-taxi) _= llamar a un taxista_
 
 [#**Commander** une pizza](#commander-une-pizza) _= pedir una pizza_
@@ -16,6 +18,17 @@ title: Situations courantes
 [#**S'inscrire à un cours** de français](#s-inscrire-a-un-cours-de-francais) _= registrarse en una clase de francés_
 
 ---
+
+## \#À l'**hôtel**
+
+```yml
+Bonjour, je voudrais réserver une chambre double, pour deux adultes et un enfant.
+# Hola, quisiera reservar una habitación doble, para dos adultos y un niño.
+Est-ce que la literie... les draps, les coussins, les couvertures... et les serviettes de bain, savons, etc. sont inclus ?
+# La ropa de cama... sábanas, cojines, mantas ... y toallas de baño, jabones...? están incluidos?
+Et.. le petit-déjeuner est également inclus ?
+# El desayuno también está incluido?
+```
 
 ## \#Appeler un **taxi**
 

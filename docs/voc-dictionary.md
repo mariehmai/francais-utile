@@ -39,6 +39,7 @@ d'accord
 
 ## C
 
+* `chambre` _= habitación / cuarto_
 * `cash` _= efectivo / sencillo_
 
 ```
@@ -49,6 +50,8 @@ d'accord
 * la `chambre` _= la habitación_
 * `se coucher` _= acostarse_
 * le `couloir` _= el pasillo_
+* `coussin` _= cojín / almohada_
+* `couverture` _= manta / cobija_
 * la `cuisine` _= la cocina_
 
 ---
@@ -61,6 +64,7 @@ d'accord
 * le `dîner` _= el almuerzo (en Belgique) / la cena (en France)_
 * `dimanche` _= domingo_
 * `dormir` _= dormir_
+* `draps` _= sábanas_
 
 ---
 
@@ -106,6 +110,8 @@ d'accord
 
 ## L
 
+* `lit` _= cama_
+* `literie` _= ropa de cama_
 * `lundi` _= lunes_
 
 ---
@@ -196,7 +202,9 @@ d'accord
 * la `salle de bain` _= la sala de baño_
 * le `salon` _= la sala_
 * `samedi` _= sábado_
+* `savon` _= jabón_
 * `septembre` _= septiembre_
+* `serviette de bain` _= toalla_
 * un `sosie` _= parecido_
 * le `souper` (en Belgique) _= la cena_
 
