@@ -6,6 +6,16 @@
     "Règles": ["rules", "conjugation", "grammar"]
   },
   "vocabulary": {
-    "Vocabulaire": ["vocabulary", "dictionary"]
+    "Vocabulaire": ["dictionary"],
+    "Catégories": [
+      "food",
+      "calendar",
+      "color",
+      "family",
+      "hotel",
+      "housing",
+      "country",
+      "sport"
+    ]
   }
 }

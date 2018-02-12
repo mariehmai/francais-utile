@@ -10,12 +10,20 @@
     "conjugation": "Conjugaison",
     "grammar": "Grammaire",
     "rules": "Introduction",
+    "calendar": "Le calendrier",
+    "color": "Les couleurs",
+    "country": "Les pays",
     "dictionary": "Dictionnaire",
-    "vocabulary": "Vocabulaire utile",
+    "family": "La famille",
+    "food": "Les aliments",
+    "hotel": "À l'hôtel",
+    "housing": "La maison",
+    "sport": "Les sports",
     "Expressions": "Expressions",
     "Vocabulaire": "Vocabulaire",
     "Dictionnaire": "Dictionnaire",
-    "Règles": "Règles"
+    "Règles": "Règles",
+    "Catégories": "Catégories"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

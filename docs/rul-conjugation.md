@@ -14,7 +14,7 @@ title: Conjugaison
 #### Correct
 
 ```
-**Dors** ma petite
+Dors* ma petite
 ```
 
 | Indicatif        | Impératif   |

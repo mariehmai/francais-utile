@@ -23,9 +23,8 @@ const siteConfig = {
   projectName: "",
   headerLinks: [
     { doc: "expressions", label: "Expressions" },
-    { doc: "vocabulary", label: "Vocabulaire" },
+    { doc: "food", label: "Vocabulaire" },
     { doc: "dictionary", label: "Dictionnaire" },
-    { doc: "vocabulary", label: "Vocabulaire" },
     { doc: "rules", label: "Règles" }
     // { page: "help", label: "Aide" }
     // { blog: true, label: "Tips" }
