@@ -6,6 +6,8 @@ title: Dictionnaire
 ## A
 
 * `accord` _= acuerdo_
+* `après-demain` _= pasado mañana_
+* `avant-hier` _= anteayer_
 
 #### Incorrect
 
@@ -65,6 +67,7 @@ d'accord
 * `dimanche` _= domingo_
 * `dormir` _= dormir_
 * `draps` _= sábanas_
+* `drôle` _= chistos@_
 
 ---
 
@@ -87,6 +90,7 @@ d'accord
 
 ## H
 
+* `hier` _= ayer_
 * `homme` _= hombre_
 
 ---
@@ -110,6 +114,7 @@ d'accord
 
 ## L
 
+* le `lendemain` _= el día siguiente_
 * `lit` _= cama_
 * `literie` _= ropa de cama_
 * `lundi` _= lunes_
@@ -120,6 +125,7 @@ d'accord
 
 * `mai` _= mayo_
 * `mardi` _= martes_
+* `marrant(e)` _= gracios@_
 * `mars` _= marzo_
 * `merci` _= gracias_
 * `mercredi` _= miércoles_
@@ -246,6 +252,7 @@ d'accord
 ## V
 
 * `faire la vaisselle` _= lavar los platos_
+* la `veille` _= el día anterior_
 * `vendredi` _= viernes_
 * `venir` _= venir_
 

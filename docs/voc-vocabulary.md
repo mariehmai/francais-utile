@@ -19,6 +19,16 @@ title: Vocabulaire utile
 
 ## \#Le **calendrier**
 
+### Les **moments**
+
+* `avant-hier` _= anteayer_
+* `hier` _= ayer_
+* la `veille` _= el día anterior_
+* `aujourd'hui` _= hoy_
+* `demain` _= mañana_
+* le `lendemain` _= el día siguiente_
+* `après-demain` _= pasado mañana_
+
 ### Les **jours de la semaine**
 
 * `lundi` _= lunes_
