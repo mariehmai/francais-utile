@@ -11,6 +11,8 @@ title: Les aliments
 
 [3. Les **cuissons**](#3-les-cuissons)
 
+[4. Les **repas**](#4-les-repas)
+
 ---
 
 ## 0. Les **\*tu dois connaître\***
@@ -53,3 +55,17 @@ title: Les aliments
 * `saignant` _=_
 * `à point` _=_
 * `bien cuit` _= bien cocido_
+
+## 4. Les **repas**
+
+### 4.1 En France
+
+* le `petit-déjeuner` _= el desayuno_
+* le `déjeuner` _= el almuerzo_
+* le `dîner` _= la cena_
+
+### 4.2 En Belgique
+
+* le `petit-déjeuner` _= el desayuno_
+* le `dîner` _= el almuerzo_
+* le `souper` _= la cena_

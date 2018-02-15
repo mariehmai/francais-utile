@@ -10,12 +10,14 @@
     "Catégories": [
       "food",
       "calendar",
+      "body",
       "color",
       "family",
       "hotel",
       "housing",
       "country",
-      "sport"
+      "sport",
+      "clothes"
     ]
   }
 }

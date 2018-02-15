@@ -5,9 +5,7 @@ title: La maison
 
 [1. Les **pièces** de la **maison**](#1-les-pieces-de-la-maison)
 
-[2. Les **repas**](#2-les-repas)
-
-[3. Le vocabulaire de **chez soi**](#3-le-vocabulaire-de-chez-soi)
+[2. Le vocabulaire de **chez soi**](#2-le-vocabulaire-de-chez-soi)
 
 ---
 
@@ -20,21 +18,7 @@ title: La maison
 * les `toilettes` _= el baño_
 * le `salon` _= la sala_
 
-## 2. Les **repas**
-
-### 2.1 En France
-
-* le `petit-déjeuner` _= el desayuno_
-* le `déjeuner` _= el almuerzo_
-* le `dîner` _= la cena_
-
-### 2.2 En Belgique
-
-* le `petit-déjeuner` _= el desayuno_
-* le `dîner` _= el almuerzo_
-* le `souper` _= la cena_
-
-## 3. Le vocabulaire de **chez soi**
+## 2. Le vocabulaire de **chez soi**
 
 * `se coucher` _= acostarse_
 * `dormir` _= dormir_
