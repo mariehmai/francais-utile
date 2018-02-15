@@ -118,9 +118,9 @@ const Features = props => (
       {
         content:
           "Personne qui a des difficultés avec les langues étrangères 🤓",
-        image: imgUrl("co.png"),
+        image: imgUrl("hisp.png"),
         imageAlign: "top",
-        title: "Colombien"
+        title: "Latino"
       }
     ]}
   </Block>
