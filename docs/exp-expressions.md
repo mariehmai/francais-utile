@@ -17,7 +17,7 @@ Voir des expressions courantes dans différentes [situations](/docs/situations.h
 
   💁🏻‍ `envier quelqu'un`\* 👍 _= envidiar a alguien_
 
-⚠️⚠️⚠️ _Peut porter à confusion si mal employé_ 🤪
+⚠️ _Peut porter à confusion si mal employé_ 😜
 
 ```yml
 1. Je t'envie...

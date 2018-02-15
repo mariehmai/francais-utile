@@ -64,7 +64,7 @@ _vtr = verbe transitif_
 
 * `(se) baisser` - (vtr / v pron)[bese] _= bajar / agacharse_
 
-⚠️⚠️⚠️ _Peut porter à confusion si mal prononcé_ baisser ≠ baiser 🤪
+⚠️ _Peut porter à confusion si mal prononcé_ baisser ≠ baiser 🤪
 
 ```yml
 1. Baisse le volume s'il te plaît.
