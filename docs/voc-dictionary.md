@@ -38,15 +38,11 @@ _vtr = verbe transitif_
 * `accès` - (nm)[aksɛ] _= acceso_
 * `accord` - (nm)[akɔʀ] _= acuerdo_
 
-#### Incorrect
+  🙅🏻‍ "d'a~~cort~~" 👎
 
-> ###### d'a~~cort~~
-
-#### Correct
+  💁🏻‍ **d'accord** 👍
 
 ```yml
-d'accord
-
 1. Je suis d'accord avec toi.
 # Estoy de acuerdo contigo.
 ```
@@ -66,9 +62,9 @@ d'accord
 
 ## B
 
-* `(se) baisser` 🙅🏻‍ ~~baiser~~ - (vtr / v pron)[bese] _= bajar / agacharse_
+* `(se) baisser` - (vtr / v pron)[bese] _= bajar / agacharse_
 
-⚠️⚠️⚠️ _Peut porter à confusion si mal prononcé_ 🤪
+⚠️⚠️⚠️ _Peut porter à confusion si mal prononcé_ baisser ≠ baiser 🤪
 
 ```yml
 1. Baisse le volume s'il te plaît.
@@ -96,6 +92,8 @@ d'accord
 
 ## C
 
+* `cachottier, ère` - (nf)[kaʃɔtje, jɛʀ] _= andarse con secretitos_
+* `caleçon` - (nm)[kalsɔ̃] _= calzoncillos_
 * `cash` - (nm)[kaʃ] _= efectivo / sencillo_
 
 ```yml
@@ -103,20 +101,17 @@ d'accord
 # Voy a pagar en efectivo.
 ```
 
-* `cachottier, ère` - (nf)[kaʃɔtje, jɛʀ] _= andarse con secretitos_
+* `cauchemar` ou `mauvais rêve` - (nm)[koʃmaʀ] _= pesadilla_
 * `chambre` - (nf)[ʃɑ̃bʀ] _= habitación / cuarto_
 * `célèbre` - (adj)[selɛbʀ] _= famos@_
-  #### Incorrect
 
-> ###### ~~fameux~~
+  🙅🏻‍ "Je suis ~~fameux~~ !" 👎
 
-#### Correct
+  💁🏻‍ Je suis **célèbre** ! 👍
 
 ```yml
-célèbre
-
 1. Tu as vu ma photo sur le journal ? Je suis célèbre ! 😎
-# Viste mi foto en periódico? Soy famoso !! 😎
+# Viste mi foto en periódico? Soy famoso!! 😎
 ```
 
 * `se coucher` - (v pron)[kuʃe] _= acostarse_

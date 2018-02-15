@@ -3,23 +3,23 @@ id: situations
 title: Situations courantes
 ---
 
-[#À l'**hôtel**](#a-l-hotel) _= en el hotel_
+[À l'**hôtel**](#a-l-hotel) _= en el hotel_
 
-[#Appeler un **taxi**](#appeler-un-taxi) _= llamar a un taxista_
+[Appeler un **taxi**](#appeler-un-taxi) _= llamar a un taxista_
 
-[#**Commander** une pizza](#commander-une-pizza) _= pedir una pizza_
+[**Commander** une pizza](#commander-une-pizza) _= pedir una pizza_
 
-[#Demander l'addition](#demander-l-addition) _= pedir la cuenta_
+[**Demander l'addition**](#demander-l-addition) _= pedir la cuenta_
 
-[#Être perdu](#etre-perdu) _= estar perdido_
+[**Être perdu**](#etre-perdu) _= estar perdido_
 
-[#Se présenter](#se-presenter) _= presentarse_
+[**Se présenter**](#se-presenter) _= presentarse_
 
-[#**S'inscrire à un cours** de français](#s-inscrire-a-un-cours-de-francais) _= registrarse en una clase de francés_
+[**S'inscrire à un cours** de français](#s-inscrire-a-un-cours-de-francais) _= registrarse en una clase de francés_
 
 ---
 
-## \#À l'**hôtel**
+## À l'**hôtel**
 
 ```yml
 Bonjour, je voudrais réserver une chambre double, pour deux adultes et un enfant.
@@ -30,7 +30,7 @@ Et.. le petit-déjeuner est également inclus ?
 # El desayuno también está incluido?
 ```
 
-## \#Appeler un **taxi**
+## Appeler un **taxi**
 
 ### Immédiatement
 
@@ -52,14 +52,14 @@ Combien coûte la réservation ?
 # Cuánto cuesta la reserva?
 ```
 
-## \#**Commander** une pizza
+## **Commander** une pizza
 
 ```yml
 Bonjour, j'aimerais/je voudrais avoir une pizza barbecue, taille moyenne, avec sauce piquante.
 # Hola, me puede dar una pizza bbq, tamaño mediano, con salsa picante.
 ```
 
-## \#Demander l'addition
+## **Demander l'addition**
 
 ```yml
 1. Excusez-moi, je pourrais avoir l'addition s'il vous plaît ?
@@ -68,7 +68,7 @@ Bonjour, j'aimerais/je voudrais avoir une pizza barbecue, taille moyenne, avec s
 # La cuenta por favor?
 ```
 
-## \#Être perdu
+## **Être perdu**
 
 ```yml
 Excusez-moi, pouvez-vous m'aider ? Je suis perdu(e).
@@ -79,7 +79,7 @@ Excusez-moi, pouvez-vous m'aider ? Je suis perdu(e).
 # Estoy buscando el mercado blablabla...
 ```
 
-## \#Se présenter
+## **Se présenter**
 
 ```yml
 Bonjour, je m'appelle Marie.
@@ -100,7 +100,7 @@ et j'ai également visité plusieurs pays d'Europe.
 # y también he visitado varios paises de Europa.
 ```
 
-## \#**S'inscrire à un cours** de français
+## **S'inscrire à un cours** de français
 
 ```yml
 Bonjour, je viens m'inscrire au cours de français pour débutant.

@@ -21,7 +21,7 @@ title: La famille
 
 ## 2. Les gens importants mais un peu moins 😛
 
-* `cousin(e)` _= prim@_
+* `cousin, e` _= prim@_
 * `beau-parents` _= suegros_
 * `beau-père / belle-mère` _= suegr@_
 * `beau-fils (ou gendre) / belle-fille` _= hijastr@_

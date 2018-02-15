@@ -7,15 +7,9 @@ title: Conjugaison
 
 <img src="/img/err-dormir.png" align="right" alt="erreur-dormir" style="width:320;"/>
 
-#### Incorrect
+* 🙅🏻‍ ~~Dorm~~ ma petite 👎
 
-> ###### **~~Dorm~~** ma petite
-
-#### Correct
-
-```
-Dors* ma petite
-```
+  💁🏻‍ **Dors** ma petite 👍
 
 | Indicatif        | Impératif   |
 | ---------------- | ----------- |

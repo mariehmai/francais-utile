@@ -13,7 +13,7 @@ Voir des expressions courantes dans différentes [situations](/docs/situations.h
 
 ### _= expresiones cultos pero... incorrectas_
 
-* 🙅🏻‍ ~~je suis envie de toi~~ 👎
+* 🙅🏻‍ ~~je suis envie de toi~~ 👎 ≠ je t'envie
 
   💁🏻‍ `envier quelqu'un`\* 👍 _= envidiar a alguien_
 
@@ -27,7 +27,7 @@ Voir des expressions courantes dans différentes [situations](/docs/situations.h
 # Te deseo... 💋
 ```
 
-* 🙅🏻 ~~moi que toi~~ 👎
+* 🙅🏻 ~~moi que toi~~ 👎 ≠ si j'étais toi
 
   💁🏻‍ `si j'étais toi, ...`\* 👍 _= yo de ti / yo que tú_
 
