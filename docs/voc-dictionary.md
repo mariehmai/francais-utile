@@ -114,6 +114,7 @@ _vtr = verbe transitif_
 # Viste mi foto en periódico? Soy famoso!! 😎
 ```
 
+* `clochard, e`\*\*\* - (nm, nf)[klɔʃaʀ, aʀd] _= mendig@_
 * `se coucher` - (v pron)[kuʃe] _= acostarse_
 * `couloir` - (nm)[kulwaʀ] _= pasillo_
 * `coussin` - (nm)[kusɛ̃] _= cojín / almohada_
@@ -190,6 +191,7 @@ _vtr = verbe transitif_
 ## M
 
 * `mai` - (nm)[mɛ] _= mayo_
+* `maladroit, e` - (nm, nf)[maladʀwa, wat] _= torpe_
 * `mardi` - (nm)[maʀdi] _= martes_
 * `marrant, e` - (adj)[maʀɑ̃, ɑ̃t] _= gracios@_
 * `mars` - (nm)[maʀs] _= marzo_
@@ -220,6 +222,7 @@ _vtr = verbe transitif_
 
 ## P
 
+* `paille` - (nf)[pɑj] _= pitillo / paja_
 * `petit-déjeuner` - (nm)[p(ə)ti deʒœne] _= desayuno_
 * `poussière` - (nf)[pusjɛʀ] _= polvo_
 * `pratiquer` - (vtr)[pʀatike] _= practicar_
