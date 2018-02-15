@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "Un site pour perfectionner son français",
+    "tagline": "Un site pour débuter en français",
     "expressions": "Top expressions",
     "salutations": "Salutations",
     "situations": "Situations courantes",
@@ -21,7 +21,6 @@
     "sport": "Les sports",
     "Expressions": "Expressions",
     "Vocabulaire": "Vocabulaire",
-    "Dictionnaire": "Dictionnaire",
     "Règles": "Règles",
     "Catégories": "Catégories"
   },

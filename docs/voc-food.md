@@ -3,14 +3,24 @@ id: food
 title: Les aliments
 ---
 
-## 0. Les **MUST**
+[0. Les **\*tu dois connaître\***](#0-les-tu-dois-connaitre)
+
+[1. Les **fruits** et **légumes**](#1-les-fruits-et-legumes)
+
+[2. Les **condiments**](#2-les-condiments)
+
+[3. Les **cuissons**](#3-les-cuissons)
+
+---
+
+## 0. Les **\*tu dois connaître\***
 
 * `maïs` _= maíz_
 * `pâte` _= pasta_
 * `riz` _= arroz_
 * `saumon` _= salmón_
 
-## 1. **fruits** et **légumes**
+## 1. Les **fruits** et **légumes**
 
 ### 1.1 Les **fruits**
 
@@ -37,7 +47,7 @@ title: Les aliments
 
 * `cornichon` _= pepinillo_
 
-## 3. Les cuissons
+## 3. Les **cuissons**
 
 * `bleu` _=_
 * `saignant` _=_

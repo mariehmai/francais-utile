@@ -3,6 +3,12 @@ id: color
 title: Les couleurs
 ---
 
+[1. L'essentiel](#1-l-essentiel)
+
+---
+
+## 1. L'essentiel
+
 * `beige` _= beige_
 * `blanc(he)` _= blanc@_
 * `bleu(e)` _= azul_

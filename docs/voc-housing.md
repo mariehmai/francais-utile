@@ -3,6 +3,14 @@ id: housing
 title: La maison
 ---
 
+[1. Les **pièces** de la **maison**](#1-les-pieces-de-la-maison)
+
+[2. Les **repas**](#2-les-repas)
+
+[3. Le vocabulaire de **chez soi**](#3-le-vocabulaire-de-chez-soi)
+
+---
+
 ## 1. Les **pièces** de la **maison**
 
 * la `chambre` _= la habitación_

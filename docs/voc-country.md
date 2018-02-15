@@ -3,6 +3,12 @@ id: country
 title: Les pays
 ---
 
+[1. Les plus cools](#1-les-plus-cools)
+
+---
+
+## 1. Les plus cools
+
 * `Argentine` _= Argentina_
   -> un(e) argentin(e)
 * `Belgique` _= Bélgica_

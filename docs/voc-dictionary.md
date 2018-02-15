@@ -19,6 +19,8 @@ _nf = nom féminin_
 
 _nm = nom masculin_
 
+_nmf = nom masculin et féminin_
+
 _v pron = verbe pronominal_
 
 _vi = verbe intransitif_
@@ -42,15 +44,17 @@ _vtr = verbe transitif_
 
 #### Correct
 
-```
+```yml
 d'accord
 
 1. Je suis d'accord avec toi.
-// Estoy de acuerdo contigo.
+# Estoy de acuerdo contigo.
 ```
 
+* `alarme` - (nf)[alaʀm] _= alarma / sirena_
+* `ambidextre` - (adj / nmf)[ɑ̃bidɛkstʀ] _= ambidiestro_
 * `après-demain` - (adv)[apʀɛd(ə)mɛ̃] _= pasado mañana_
-* `après-midi` - (nf/nm)[apʀɛmidi] _= tarde_
+* `après-midi` - (nmf)[apʀɛmidi] _= tarde_
 * `avant-hier` - (adv)[avɑ̃tjɛʀ] _= anteayer_
 * `août` - (nm)[u(t)] _= agosto_
 * `aube` - (nf)[ob] _= madrugada_
@@ -62,17 +66,31 @@ d'accord
 
 ## B
 
+* `(se) baisser` 🙅🏻‍ ~~baiser~~ - (vtr / v pron)[bese] _= bajar / agacharse_
+
+⚠️⚠️⚠️ _Peut porter à confusion si mal prononcé_ 🤪
+
+```yml
+1. Baisse le volume s'il te plaît.
+# Baja el volumen.
+
+2. Baisse-toi !
+# Agáchate!
+```
+
+* `batôn` - (nm)[] _= palo_
 * `beaucoup` - (adv)[boku] _= mucho_
 * `beige` - (adj)[bɛʒ] _= beige_
 * avoir `besoin` de... quelqu'un / quelque chose - (nm)[bəzwɛ̃] _= necesitar... alguien / algo_
 
-```
+```yml
 1. J'ai besoin d'une information.
-// Necesito una información.
+# Necesito una información.
 ```
 
-* `blanc(he)` - (adj)[blɑ̃, blɑ̃ʃ] _= blanc@_
-* `bleu(e)`- (adj)[blø] _= azul_
+* `blanc, blanche` - (adj)[blɑ̃, blɑ̃ʃ] _= blanc@_
+* `bleu, bleue`- (adj)[blø] _= azul_
+* `bouger`- (vtr / vi)[buʒe] _= mover_
 
 ---
 
@@ -80,12 +98,27 @@ d'accord
 
 * `cash` - (nm)[kaʃ] _= efectivo / sencillo_
 
-```
+```yml
 1. Je vais payer en cash.
-// Voy a pagar en efectivo.
+# Voy a pagar en efectivo.
 ```
 
+* `cachottier, ère` - (nf)[kaʃɔtje, jɛʀ] _= andarse con secretitos_
 * `chambre` - (nf)[ʃɑ̃bʀ] _= habitación / cuarto_
+* `célèbre` - (adj)[selɛbʀ] _= famos@_
+  #### Incorrect
+
+> ###### ~~fameux~~
+
+#### Correct
+
+```yml
+célèbre
+
+1. Tu as vu ma photo sur le journal ? Je suis célèbre ! 😎
+# Viste mi foto en periódico? Soy famoso !! 😎
+```
+
 * `se coucher` - (v pron)[kuʃe] _= acostarse_
 * `couloir` - (nm)[kulwaʀ] _= pasillo_
 * `coussin` - (nm)[kusɛ̃] _= cojín / almohada_
@@ -121,7 +154,7 @@ d'accord
 ## G
 
 * `gare` - (nf)[gaʀ] _= estación de tren_
-* `gris(e)` - (adj)[gʀi, gʀiz] _= gris_
+* `gris, e` - (adj)[gʀi, gʀiz] _= gris_
 
 ---
 
@@ -163,7 +196,7 @@ d'accord
 
 * `mai` - (nm)[mɛ] _= mayo_
 * `mardi` - (nm)[maʀdi] _= martes_
-* `marrant(e)` - (adj)[maʀɑ̃, ɑ̃t] _= gracios@_
+* `marrant, e` - (adj)[maʀɑ̃, ɑ̃t] _= gracios@_
 * `mars` - (nm)[maʀs] _= marzo_
 * `matin` - (nm)[matɛ̃] _= mañana_
 * `merci` - (nm)[mɛʀsi] _= gracias_
@@ -175,7 +208,7 @@ d'accord
 
 ## N
 
-* `noir(e)` - (adj)[nwaʀ] _= negr@_
+* `noir, e` - (adj)[nwaʀ] _= negr@_
 * `non` - (adv)[nɔ̃] _= no_
 * `novembre` - (nm)[nɔvɑ̃bʀ] _= noviembre_
 * la `nuit` - (nf)[nɥi] _= la noche_
@@ -196,17 +229,17 @@ d'accord
 * `poussière` - (nf)[pusjɛʀ] _= polvo_
 * `pratiquer` - (vtr)[pʀatike] _= practicar_
 
-```
+```yml
 1. Aujourd'hui, nous allons pratiquer le français.
-// Hoy vamos a practicar francés.
+# Hoy vamos a practicar francés.
 ```
 
-* `précieux/se` - (adj)[pʀesjø, jøz] _= precioso_
+* `précieux, euse` - (adj)[pʀesjø, jøz] _= precioso_
 * `presque` - (adv)[pʀɛsk] _= casi_
 
-```
+```yml
 1. J'ai dormi presque toute la journée.
-// Duermo casi todo el día.
+# Duermo casi todo el día.
 ```
 
 * `produit` - (nm)[pʀɔdɥi] _= producto_
@@ -223,28 +256,28 @@ d'accord
 
 * `se remettre de`... - (v pron)[ʀ(ə)mɛtʀ] _= superar_
 
-```
+```yml
 1. Je ne vais pas m'en remettre.
-// No lo voy a superar.
+# No lo voy a superar.
 ```
 
 * `repasser` - (vtr)[ʀ(ə)pɑse] _= planchar_
 * `(se) reposer` - (vtr / v pron)[ʀ(ə)poze] _= poner / descansar_
 * `(se) réveiller` - (vtr / v pron)[ʀeveje] _= despertar(se)_
 
-```
+```yml
 1. (réveiller) Le matin, je réveille mon fils/ma fille pour qu'il aille à l'école.
-// En la mañana, despierto a mi hij@ para que vaya a la escuela.
+# En la mañana, despierto a mi hij@ para que vaya a la escuela.
 
 2. (se réveiller) À quelle heure te réveilles-tu ?
-// A qué hora te despiertas?
+# A qué hora te despiertas?
 ```
 
 * `rêver` - (vi)[ʀeve] _= soñar_
 
-```
+```yml
 1. J'ai rêvé que j'avais une ferrari.
-// Soñé que tenía una ferrari.
+# Soñé que tenía una ferrari.
 ```
 
 * `rose` - (adj)[ʀoz] _= rosad@_
@@ -263,9 +296,9 @@ d'accord
 * `soir` - (nm)[swaʀ] _= noche_
 * `sosie` - (nm)[sɔzi] _= parecido_
 
-```
+```yml
 1. J'ai vu quelqu'un aujourd'hui, c'était ton sosie !
-// Vi a alguién hoy... Era muy parecido a ti!
+# Vi a alguién hoy... Era muy parecido a ti!
 ```
 
 * `souper` - (nm)[supe] (en Belgique) _= cena_
@@ -276,27 +309,27 @@ d'accord
 
 * `temps` - (nm)[tɑ̃] _= tiempo / clima_
 
-```
+```yml
 1. J'ai du temps les weekend.
-// Tengo tiempo los fines de semana
+# Tengo tiempo los fines de semana
 
 2. Le temps est plutôt gris aujourd'hui.
-// El tiempo/clima está bastante nublado hoy
+# El tiempo/clima está bastante nublado hoy
 ```
 
 * `toilette` - (nf)[twalɛt] _= baño_
 * `très` - (adv)[tʀɛ] _= muy_
 
-```
+```yml
 1. C'est très bien.
-// Está muy bien.
+# Está muy bien.
 ```
 
 ---
 
 ## U
 
-* `un(e)` - (article/adj)[œ, yn] _= un@_
+* `un, une` - (article/adj)[œ, yn] _= un@_
 
 ---
 
@@ -306,8 +339,8 @@ d'accord
 * `veille` - (nf)[vɛj] _= día anterior_
 * `vendredi` - (nm)[vɑ̃dʀədi] _= viernes_
 * `venir` - (vi)[v(ə)niʀ] _= venir_
-* `vert(e)` - (adj)[vɛʀ, vɛʀt] _= verde_
-* `violet(te)` - (adj)[vjɔlɛ, ɛt] _= morado_
+* `vert, e` - (adj)[vɛʀ, vɛʀt] _= verde_
+* `violet, ette` - (adj)[vjɔlɛ, ɛt] _= morado_
 
 ---
 

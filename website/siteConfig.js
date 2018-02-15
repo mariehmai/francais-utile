@@ -17,14 +17,13 @@ const users = [
 
 const siteConfig = {
   title: "Français Utile" /* title for your website */,
-  tagline: "Un site pour perfectionner son français",
-  url: "https://facebook.github.io" /* your website url */,
+  tagline: "Un site pour débuter en français",
+  url: "https://francais-utile.netlify.com" /* your website url */,
   baseUrl: "/" /* base url for your project */,
   projectName: "",
   headerLinks: [
     { doc: "expressions", label: "Expressions" },
     { doc: "food", label: "Vocabulaire" },
-    { doc: "dictionary", label: "Dictionnaire" },
     { doc: "rules", label: "Règles" }
     // { page: "help", label: "Aide" }
     // { blog: true, label: "Tips" }

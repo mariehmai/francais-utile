@@ -3,6 +3,12 @@ id: hotel
 title: À l'hôtel
 ---
 
+[1. L'essentiel](#1-l-essentiel)
+
+---
+
+## 1. L'essentiel
+
 * `chambre double` _= habitación doble_
 * `chambre simple` _= habitación individual_
 * `coussin` _= cojín / almohada_
