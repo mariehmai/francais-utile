@@ -4,6 +4,9 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "Un site pour débuter en français",
+    "course1": "Cours 1 - ABC + Se présenter",
+    "course2": "Cours 2",
+    "courses": "Introduction",
     "expressions": "Top expressions",
     "salutations": "Salutations",
     "situations": "Situations courantes",
@@ -25,6 +28,8 @@
     "Expressions": "Expressions",
     "Vocabulaire": "Vocabulaire",
     "Règles": "Règles",
+    "Apprendre": "Apprendre",
+    "Cours": "Cours",
     "Catégories": "Catégories"
   },
   "pages-strings": {

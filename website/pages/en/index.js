@@ -76,7 +76,7 @@ class HomeSplash extends React.Component {
     let language = this.props.language || ""
     return (
       <SplashContainer>
-        {/* <Logo img_src={imgUrl("fr.png")} /> */}
+        <Logo img_src={imgUrl("favicon.png")} />
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
@@ -87,7 +87,7 @@ class HomeSplash extends React.Component {
               Chercher un mot
             </Button>
             <Button href={docUrl("expressions.html", language)}>
-              Voir les expressions cools
+              Voir des expressions cools
             </Button>
           </PromoSection>
         </div>
@@ -104,6 +104,21 @@ const Block = props => (
   >
     <GridBlock align="center" contents={props.children} layout={props.layout} />
   </Container>
+)
+
+const CoursesSection = props => (
+  <div className="productShowcaseSection paddingBottom">
+    <h2>Envie de s'exercer progressivement ?</h2>
+    <p>
+      Retrouvez des cours comprenant des règles de base, un thème de
+      conversation, suivis d'exercices
+    </p>
+    <div className="more-users">
+      <a className="button" href={docUrl("courses.html", props.language)}>
+        Accéder aux cours
+      </a>
+    </div>
+  </div>
 )
 
 const Features = props => (
@@ -124,6 +139,18 @@ const Features = props => (
       }
     ]}
   </Block>
+)
+
+const Vocabulary = props => (
+  <div className="productShowcaseSection">
+    <h2>Envie de parler français au quotidien ?</h2>
+    <p>Découvrez le vocabulaire de la vie courante</p>
+    <div>
+      <a className="button" href={docUrl("food.html", props.language)}>
+        C'est parti !
+      </a>
+    </div>
+  </div>
 )
 
 const Showcase = props => {
@@ -164,6 +191,8 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
+          <CoursesSection />
+          <Vocabulary />
           <Features />
           {/* <Showcase language={language} /> */}
         </div>

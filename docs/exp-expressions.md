@@ -5,7 +5,9 @@ title: Top expressions
 
 \*Formel \*\*Informel \*\*\*Super informel
 
-Voir des expressions courantes dans différentes [situations](/docs/situations.html).
+[Expressions cultes mais... fausses](#expressions-cultes-mais-fausses)
+
+[Quelques expressions... cool à connaître](#quelques-expressions-cool-a-connaitre)
 
 ---
 

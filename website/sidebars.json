@@ -1,4 +1,8 @@
 {
+  "courses": {
+    "Apprendre": ["courses"],
+    "Cours": ["course1"]
+  },
   "expressions": {
     "Expressions": ["expressions", "situations", "salutations"]
   },
