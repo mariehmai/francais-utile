@@ -4,33 +4,84 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "Un site pour débuter en français",
-    "course1": "Cours 1 - ABC + Se présenter",
-    "course2": "Cours 2",
-    "courses": "Introduction",
-    "expressions": "Top expressions",
-    "salutations": "Salutations",
-    "situations": "Situations courantes",
-    "conjugation": "Conjugaison",
-    "grammar": "Grammaire",
-    "rules": "Introduction",
-    "animal": "Les animaux",
-    "body": "Le corps humain",
-    "calendar": "Le calendrier",
-    "clothes": "Les vêtements",
-    "color": "Les couleurs",
-    "country": "Les pays",
-    "dictionary": "Dictionnaire",
-    "family": "La famille",
-    "food": "Les aliments",
-    "hotel": "À l'hôtel",
-    "housing": "La maison",
-    "sport": "Les sports",
-    "Expressions": "Expressions",
-    "Vocabulaire": "Vocabulaire",
-    "Règles": "Règles",
-    "Apprendre": "Apprendre",
-    "Cours": "Cours",
-    "Catégories": "Catégories"
+    "docs": {
+      "course1": {
+        "title": "Cours 1 - ABC + Se présenter"
+      },
+      "co-course2": {
+        "title": "co-course2"
+      },
+      "courses": {
+        "title": "Introduction"
+      },
+      "expressions": {
+        "title": "Top expressions"
+      },
+      "salutations": {
+        "title": "Salutations"
+      },
+      "situations": {
+        "title": "Situations courantes"
+      },
+      "conjugation": {
+        "title": "Conjugaison"
+      },
+      "grammar": {
+        "title": "Grammaire"
+      },
+      "rules": {
+        "title": "Introduction"
+      },
+      "animal": {
+        "title": "Les animaux"
+      },
+      "body": {
+        "title": "Le corps humain"
+      },
+      "calendar": {
+        "title": "Le calendrier"
+      },
+      "clothes": {
+        "title": "Les vêtements"
+      },
+      "color": {
+        "title": "Les couleurs"
+      },
+      "country": {
+        "title": "Les pays"
+      },
+      "dictionary": {
+        "title": "Dictionnaire"
+      },
+      "family": {
+        "title": "La famille"
+      },
+      "food": {
+        "title": "Les aliments"
+      },
+      "hotel": {
+        "title": "À l'hôtel"
+      },
+      "housing": {
+        "title": "La maison"
+      },
+      "sport": {
+        "title": "Les sports"
+      }
+    },
+    "links": {
+      "Expressions": "Expressions",
+      "Vocabulaire": "Vocabulaire",
+      "Règles": "Règles"
+    },
+    "categories": {
+      "Apprendre": "Apprendre",
+      "Cours": "Cours",
+      "Expressions": "Expressions",
+      "Règles": "Règles",
+      "Vocabulaire": "Vocabulaire",
+      "Catégories": "Catégories"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

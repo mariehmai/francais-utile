@@ -6,8 +6,8 @@ The app for you to learn basic french...
 
 ```
 cd your-workspace/
-git clone https://gitlab.com/mhmaii/docs-french.git
-cd docs-french/
+git clone https://github.com/mariehmai/francais-utile.git
+cd francais-utile/
 ```
 
 ## How to run the app
