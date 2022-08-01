@@ -132,7 +132,7 @@ const Features = props => (
       },
       {
         content:
-          "Personne qui a des difficultés avec les langues étrangères 🤓",
+          "Wepaje 🤓",
         image: imgUrl("hisp.png"),
         imageAlign: "top",
         title: "Latino"
